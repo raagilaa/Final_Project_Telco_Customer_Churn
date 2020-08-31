@@ -12,6 +12,3 @@ Each row represents a customer, each column contains customer’s attributes des
 3. Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 4. Demographic info about customers – gender, age range, and if they have partners and dependents
 
-### Problem: 
-1. Analyze customer data to understand reason for churn and who could be the next potential customer to leave the company
-2. What contributes to the higher churn rate of customer and what could be some of the probable solution to address the same.
